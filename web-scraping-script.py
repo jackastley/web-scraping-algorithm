@@ -37,7 +37,7 @@ for x in range(200):
 
 
 
-#Practice making the script adaptable
+#set financial statement data to scrape
 BS_ARGS = ['Cash and cash equivalents','Net property, plant and equipment','Equity and other investments','Total assets','Current debt', 'Long-term debt']
 IS_ARGS = ['Total revenue', 'Cost of revenue','Gross profit', 'Total operating expenses','Total other income/expenses net', 'Net income']
 
